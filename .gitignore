@@ -1,0 +1,77 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.dbproj.scmuser
+*.vspscc
+*.vssscc
+*.User
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.userprefs
+*.userosscache
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.iobj
+*.ipdb
+*.i.tlog
+*.lastbuildstate
+*.log
+*.pch
+*.tlog
+*.tmp
+*.tmp_proj
+*.vspscc
+*.vssscc
+*.builds
+*.pidb
+*.svclog
+*.scc
+
+# NuGet
+packages/
+*.nupkg
+*.nupkg.sha512
+*.nuspec
+*.snupkg
+*.nuproj
+
+# Entity Framework
+Migrations/
+*.mdf
+*.ldf
+
+# Redis
+*.rdb
+*.aof
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+*.env.local
+*.env.development
+*.env.production
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Test Results
+TestResults/
+coverage/
